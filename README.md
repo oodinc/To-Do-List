@@ -9,7 +9,7 @@ Aplikasi To-Do List yang dibuat dengan menggunakan framework Laravel. Aplikasi i
 - Hapus tugas yang sudah selesai atau tidak diperlukan lagi
 
 ## Teknologi yang Digunakan
-- Laravel 8.x
+- Laravel 10.8
 - MySQL
 - Bootstrap 5
 - Font Awesome 5
