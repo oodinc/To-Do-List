@@ -21,3 +21,9 @@ Aplikasi To-Do List yang dibuat dengan menggunakan framework Laravel. Aplikasi i
 
 ## Kontribusi
 Kami sangat terbuka untuk kontribusi dari siapa saja. Jika Anda menemukan bug atau ingin menambahkan fitur baru, silakan buka issue baru atau buat pull request Anda.
+
+## Kontak
+Jika ada pertanyaan atau masalah terkait dengan To-Do List, bisa menghubungi melalui:
+
+Instagram: [@m_saifuddin711](https://www.instagram.com/direct/t/340282366841710300949128165706432124526).
+Email: [masoodinc1@gmail.com](mailto:masoodinc1@gmail.com).
