@@ -3,16 +3,14 @@ Aplikasi To-Do List yang dibuat dengan menggunakan framework Laravel. Aplikasi i
 
 ## Fitur
 - Tambahkan tugas baru dan berikan judul pada tugas tersebut
-- Tandai tugas sebagai selesai atau belum selesai
 - Lihat daftar tugas dan statusnya
 - Edit tugas yang sudah ada
 - Hapus tugas yang sudah selesai atau tidak diperlukan lagi
+- Tandai tugas sebagai selesai atau belum selesai
 
 ## Teknologi yang Digunakan
 - Laravel 10.8
-- MySQL
-- Bootstrap 5
-- Font Awesome 5
+- Bootstrap 5.3.0-alpha3
 
 ## Cara Menggunakan
 - Clone repositori ini ke lokal Anda dengan perintah git clone https://github.com/oodinc/To-Do-List.git
