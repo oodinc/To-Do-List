@@ -25,5 +25,5 @@ Kami sangat terbuka untuk kontribusi dari siapa saja. Jika Anda menemukan bug at
 ## Kontak
 Jika ada pertanyaan atau masalah terkait dengan To-Do List, bisa menghubungi melalui:
 
-<a>Instagram: [@m_saifuddin711](https://www.instagram.com/direct/t/340282366841710300949128165706432124526).</a>
-<a>Email: [masoodinc1@gmail.com](mailto:masoodinc1@gmail.com).</a>
+<p>Instagram: [@m_saifuddin711](https://www.instagram.com/direct/t/340282366841710300949128165706432124526).</p>
+<p>Email: [masoodinc1@gmail.com](mailto:masoodinc1@gmail.com).</p>
